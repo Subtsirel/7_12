@@ -1,0 +1,17 @@
+D:\Users\Daria\source\repos\лр7_12\лр7_12\bin\Debug\net6.0-windows\лр7_12.exe
+D:\Users\Daria\source\repos\лр7_12\лр7_12\bin\Debug\net6.0-windows\лр7_12.deps.json
+D:\Users\Daria\source\repos\лр7_12\лр7_12\bin\Debug\net6.0-windows\лр7_12.runtimeconfig.json
+D:\Users\Daria\source\repos\лр7_12\лр7_12\bin\Debug\net6.0-windows\лр7_12.dll
+D:\Users\Daria\source\repos\лр7_12\лр7_12\bin\Debug\net6.0-windows\лр7_12.pdb
+D:\Users\Daria\source\repos\лр7_12\лр7_12\obj\Debug\net6.0-windows\лр7_12.csproj.AssemblyReference.cache
+D:\Users\Daria\source\repos\лр7_12\лр7_12\obj\Debug\net6.0-windows\лр7_12.Form1.resources
+D:\Users\Daria\source\repos\лр7_12\лр7_12\obj\Debug\net6.0-windows\лр7_12.csproj.GenerateResource.cache
+D:\Users\Daria\source\repos\лр7_12\лр7_12\obj\Debug\net6.0-windows\лр7_12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Daria\source\repos\лр7_12\лр7_12\obj\Debug\net6.0-windows\лр7_12.AssemblyInfoInputs.cache
+D:\Users\Daria\source\repos\лр7_12\лр7_12\obj\Debug\net6.0-windows\лр7_12.AssemblyInfo.cs
+D:\Users\Daria\source\repos\лр7_12\лр7_12\obj\Debug\net6.0-windows\лр7_12.csproj.CoreCompileInputs.cache
+D:\Users\Daria\source\repos\лр7_12\лр7_12\obj\Debug\net6.0-windows\лр7_12.dll
+D:\Users\Daria\source\repos\лр7_12\лр7_12\obj\Debug\net6.0-windows\refint\лр7_12.dll
+D:\Users\Daria\source\repos\лр7_12\лр7_12\obj\Debug\net6.0-windows\лр7_12.pdb
+D:\Users\Daria\source\repos\лр7_12\лр7_12\obj\Debug\net6.0-windows\лр7_12.genruntimeconfig.cache
+D:\Users\Daria\source\repos\лр7_12\лр7_12\obj\Debug\net6.0-windows\ref\лр7_12.dll
